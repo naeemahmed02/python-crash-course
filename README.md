@@ -1,4 +1,3 @@
-````markdown
 # 🐍 Python for Beginners – 6 Session Learning Plan
 
 Welcome to this **interactive Python learning series** designed for absolute beginners.  
@@ -11,8 +10,8 @@ but you'll also build mini-projects using what you’ve learned — completely f
 
 | Session | Topics Covered |
 |--------|----------------|
-| ✅ 1 | [Introduction to Python](#session-1) – Variables, Strings, Data Types |
-| ✅ 2 | [Collections](#session-2) – Lists, Tuples, Manipulation |
+| ✅ 1 | [Introduction to Python](#✅-session-1-introduction-to-python) – Variables, Strings, Data Types |
+| ✅ 2 | [Collections](#✅-session-2-collections--lists--tuples) – Lists, Tuples, Manipulation |
 | 🔜 3 | Dictionaries & JSON |
 | 🔜 4 | Conditional Logic & Loops |
 | 🔜 5 | Functions – Built-in & Custom |
@@ -87,83 +86,3 @@ but you'll also build mini-projects using what you’ve learned — completely f
 🎯 **Goal:** Combine all learned concepts to build a console-based student management system or a simple CLI app.
 
 ---
-
-## 👨‍🏫 How to Use This Repo
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/python-6-session.git
-   cd python-6-session
-````
-
-2. **Navigate by session**
-
-   ```bash
-   cd session1_intro
-   python bio_card.py
-   ```
-
-3. **Explore**, **edit**, and **try your own inputs** to understand the concepts.
-
----
-
-## 🙌 Who is this for?
-
-* Beginner coders
-* Students in workshops or bootcamps
-* Teachers/trainers who want a practical, beginner-focused curriculum
-
----
-
-## 🧠 Tips for Learners
-
-* Run each file and **read the comments**
-* Try changing values and adding your own code
-* Challenge yourself with the **mini-exercises** provided
-
----
-
-## 💡 Contributions Welcome
-
-Feel free to fork this repo and:
-
-* Add your own beginner projects
-* Translate content
-* Add interactive quizzes
-
----
-
-## 📩 Contact
-
-Created by **Naeem Ahmed**
-📧 \[[naeemahmedbdn2002@gmail.com](mailto:naeemahmedbdn2002@gmail.com)]
-
----
-
-Happy Learning! 🚀
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-```
-
----
-
-### 📁 Suggested Repo Structure:
-
-```
-
-python-6-session/
-├── README.md
-├── session1\_intro/
-│   └── bio\_card.py
-├── session2\_collections/
-│   └── course\_registration.py
-├── session3\_dictionaries/
-│   └── (Coming soon)
-├── session4\_logic\_loops/
-├── session5\_functions/
-├── session6\_final\_project/
-
-```
-
-
-```
